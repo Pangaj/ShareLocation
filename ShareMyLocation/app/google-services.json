@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939501031374",
+    "project_id": "sharemylocation-1490599068480"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939501031374:android:c541091f1b23909e",
+        "android_client_info": {
+          "package_name": "shruthi.pangaj.sharemylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939501031374-rdl3tvf7q2qgtbpsc7lsctq47mkakavr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shruthi.pangaj.sharemylocation",
+            "certificate_hash": "7b48a8dc1da17663cb0e44e840143ae9b4e500f4"
+          }
+        },
+        {
+          "client_id": "939501031374-6scgdfu1ro50bmh9krnjieh8m3vqt7s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMmWxPiJX7ZkCEJT9Lm7CNq7WeWx8LJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
