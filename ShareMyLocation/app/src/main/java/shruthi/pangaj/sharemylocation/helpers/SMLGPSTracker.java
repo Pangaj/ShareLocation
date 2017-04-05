@@ -1,4 +1,4 @@
-package shruthi.pangaj.helpers;
+package shruthi.pangaj.sharemylocation.helpers;
 
 import android.app.AlertDialog;
 import android.app.Service;
